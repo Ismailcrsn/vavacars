@@ -1,0 +1,96 @@
+*
+{
+    margin: auto;
+    padding: 0px;
+    font-family: sans-serif ;
+}
+.vav .border
+{
+    width: auto;
+    height: 38px;
+    background: rgb(23, 133, 70);
+}
+.vav .border .bor_y
+{
+    color: #fff;
+    font: 500 20px/32px Roboto,Helvetica Neue,sans-serif;
+    text-align: center;
+    float: right;
+    height: 38px;
+}
+.vav .border .bor_y .bbor
+{
+    text-align: center;
+}
+.vav .meni
+{
+    background: #fff;
+    height: 81px;
+    width: auto;
+}
+.vav .meni ul li
+{
+    list-style-type: none;
+    float: left;
+    margin: 20PX;
+    height: 35px;
+}
+.vav .meni ul li a
+{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    display: block;
+}
+.vav .meni .logoo
+{
+    float: left;
+}
+.vav .kopru
+{
+    background: #cecece;
+    height:35px;
+    width: auto;
+}
+.vav .kopru ul
+{
+    width: 1020px;
+    justify-content: center;
+}
+.vav .kopru ul li
+{   
+    padding: 0px 30px;
+    list-style-type: none;
+    float: left;
+    justify-content: center;
+    align-items: center;
+}
+.vav .kopru ul li a
+{
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    display: block;
+    margin: 10px;
+    text-align: left;
+}
+.vav .badd .bad 
+{
+    color: #178546;
+    font-size: x-large;
+    text-align: left;
+    margin-left: 65px;
+    margin-top: 45px;
+}
+.vav .badd .badss
+{
+    color: black;
+    font-size: medium;
+    text-align: left;
+    margin-left: 65px;
+}
+.vav .badd .badss .ibad img
+{
+    float: right;
+    position: absolute;
+}
